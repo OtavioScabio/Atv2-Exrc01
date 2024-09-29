@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Equação de 2 Grau</string>
+    <string name="etA">Valor de A</string>
+    <string name="etB">Valor de B</string>
+    <string name="etC">Valor de C</string>
+    <string name="calc">Calcular</string>
+    <string name="res">Resultado = </string>
+</resources>
